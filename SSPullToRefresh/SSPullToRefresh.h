@@ -6,7 +6,7 @@
 //  Copyright (c) 2012-2014 Sam Soffes. All rights reserved.
 //
 
-@import Foundation;
+#import <Foundation/Foundation.h>
 
 //! Project version number for SSPullToRefresh.
 FOUNDATION_EXPORT double SSPullToRefreshVersionNumber;
